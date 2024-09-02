@@ -1,5 +1,6 @@
 # 💫 About Me:
 👯 I’m looking for a job in data science or data analysis<br>
+🔭 Check out my CV in the “Hugo-Freitas” repo"<br>
 
 
 # 💻 Tech Stack:
